@@ -24,7 +24,7 @@ kubectl create -f <file.yml> --dry-run
 ```
 kubectl apply
 ```sh
-kubectl apply-f <file.yml>
+kubectl apply -f <file.yml>
 ```
 Delete All pods
 ```sh
