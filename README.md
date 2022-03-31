@@ -1,7 +1,8 @@
 # Kubernestes
 
 ## kubernetes bash-completion
-install bash-completion
+install 
+bash-completion is provided by many package managers
 ```sh
 apt-get install bash-completion
 ```
